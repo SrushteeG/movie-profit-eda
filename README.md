@@ -41,14 +41,14 @@ The analysis focuses on identifying patterns between budget, revenue, and genres
 
 ## 📈 Visualizations
 
-### Budget vs Revenue Relationship
-![Budget vs Revenue](images/graph1.png)
+### Distributor vs Average Domestic Gross Relationship
+![Distributor vs Avg Domestic Gross](images/graph1.png)
 
-### Genre-wise Profit Analysis
-![Genre Analysis](images/graph2.png)
+### Worldwide Gross -Production Budget Analysis
+![Worldwide Gross -Production Budget](images/graph2.png)
 
-### Distribution of Revenue / Profit
-![Revenue Distribution](images/graph3.png)
+### Domestic Gross By MPAA Rating
+![Domestic Gross By MPAA Rating](images/graph3.png)
 
 ---
 
